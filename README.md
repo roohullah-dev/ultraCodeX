@@ -53,6 +53,6 @@ This is not a one-size-fits-all tool. I write **clean, efficient, and purpose-bu
 
 Need a custom script for your workflow? Let's build it together.  
 Crafted by Roohullah Dev  
-📧 Email: roohanitech121@gmail.com  
+📧 Email: roohullahdev5@gmail.com  
 🔗 GitHub: https://github.com/roohullah-dev/  
 💼 Fiverr: https://www.fiverr.com/users/roohullah2020/
